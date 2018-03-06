@@ -4,6 +4,13 @@ You need installed [MongoDB](https://www.mongodb.com).
 
 ## Running project
 
+### Install packages
+
+```sh
+# in project's folder
+npm install
+```
+
 ### Run server
 
 ```sh
